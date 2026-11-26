@@ -1,0 +1,7 @@
+target/
+.idea/
+*.iml
+.mvn/
+downloaded_testfile.txt
+*.state
+src/main/resources/testfile.txt
